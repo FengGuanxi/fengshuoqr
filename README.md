@@ -9,4 +9,4 @@
 愿COVID-19疫情早日结束 T_T
 
 小tips：github可以通过repository来创建静态网页
-预览页面：https://kennylo-can.github.io/cuzqrcode/
+预览页面：https://fengguanxi.github.io/fengshuoqr/
